@@ -29,7 +29,7 @@
 - <https://unsplash.com> 고퀄리티의 분위기 있는 풍경사진이 많다.
 
 
-- <https://www.splitshire.com> 포토그래퍼 다니엘 나네스쿠가 자신의 사진과 영상을 물로 공유하는 사이트 
+- <https://www.splitshire.com> 포토그래퍼 다니엘 나네스쿠가 자신의 사진과 영상을 물로 공유하는 사이트 <br> 
                            업무나 자료 작성 시 ppt 배경에 좋은 이미지를 찾을 수 있다.
 
 
