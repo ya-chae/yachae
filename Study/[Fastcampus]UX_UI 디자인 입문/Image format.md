@@ -15,7 +15,7 @@
 JPG, PNG, GIF, BMP등이 해당된다.
 <br>
 
-![vector bitmap비교](Study/Image/Vector_bitmap.png)
+![image][Study/Image/Vector_bitmap.png]
 
 - JPG : 사진등의 정지화상을 통신에 사용하기 위해서 압축하는 기술의 표준.<br>
 1600만 색상을 표현할 수 있어 고해상도 이미지 표시에 적합하며,<br>
